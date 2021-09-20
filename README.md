@@ -1,7 +1,7 @@
 # AV-Hackathon-sep-2021
 Rank 78 Solution, MSLE*1000 = 224
 
-Problem Statement: 
+**Problem Statement: **
 
 Supplement Sales Prediction
 
@@ -15,7 +15,7 @@ Sales data for 18 months from 365 stores of WOMart is available along with infor
 
 Your task is to predict the store sales for each store in the test set for the next two months.
 
-Data Dictionary:
+**Data Dictionary:**
 #### Train Data
 - ID: Unique Identifier for a row
 
@@ -55,7 +55,7 @@ Data Dictionary:
 
 - Discount: If discount is offered by store on the given Date, Yes/ No
 
-Final Outcome:
+**Final Outcome:**
 
 After exhaustive attempts of 3 days and giving my best, I received the best MSLE*1000 Error of 225 (rank 78!). I tried multiple approaches, used the data-centric approach by making changes to data multiple times (as many ways as my brain could think of) apart from changing models. 
 
